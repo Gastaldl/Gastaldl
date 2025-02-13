@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Oi, Sou o Márcio!
-👩🏻‍💻 Cientista de dados procurando um estágio no momento!<br/>
+👩🏻‍💻 Engenheiro de Software procurando um estágio no momento!<br/>
 👩🏻‍🎓 Cursando Engenharia de Software na FIAP.<br/>
 📊 Fazendo projetos para aprender na prática as tecnologias da área.<br/>
 📚 Aprendendo no momento SQL e Excel focando na área de dados!<br/><br/>
